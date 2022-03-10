@@ -1,2 +1,2 @@
 Meu primeiro projeto no git e github.
-Agora tudo será modificado e o meu primeiro projeto ser esquecido!!
+Agora tudo será modificado e o meu primeiro projeto será esquecido!!
