@@ -1,0 +1,2 @@
+Digite um nome:
+Digite um senha:
