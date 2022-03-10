@@ -1,0 +1,2 @@
+Este arquivo não há informações, sua função é exercitar 
+os comandos do git.
